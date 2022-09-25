@@ -1,6 +1,6 @@
 # JogoDeAdivinhacao
 
-Projeto Jogo de Adivinhação feito durante a Imersão Dev
+Projeto Jogo de Adivinhação feito durante o Imersão Dev
 
 ## Tecnologias Usadas
 - HTML
